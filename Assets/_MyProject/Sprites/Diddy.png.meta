@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: b2240f85ea79e6848aa5e23f5728c1df
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Diddy_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5342822, y: 0.028512478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e6b04afc31a9645ab20a87e49137a0
+      internalID: 1977280388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 219
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4339506, y: 0.03595988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db774e0a1563e448243b9f346e3f1a
+      internalID: -568528646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 219
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5732327, y: 0.042416573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85aba0e6959d34685aeb2f89993eba
+      internalID: 1577715736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 220
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.536057, y: 0.03799184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee68e3e379426e48a991ccd98ee1439
+      internalID: -282135940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.57917494, y: 0.033169914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c4449ed17a475409651ef0ef9e1e68
+      internalID: 499381364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 179
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5319361, y: 0.02579799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc17c8bd5702042ae23ccc69a5e127
+      internalID: 837300871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 179
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.58383244, y: 0.03543043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a1acdf16a8464898ec31c1dd1bbaf
+      internalID: 1281472881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 179
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.61576873, y: 0.042733856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082de6b143c2b584d88765534bf4c17a
+      internalID: -1917629791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 179
+        width: 24
+        height: 34
+      alignment: 9
+      pivot: {x: 0.56520337, y: 0.039745107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c47fe464cf8944bcd4025c98a3358
+      internalID: 299181349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 179
+        width: 19
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03934687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ada7da60fa4d428460d540194bb36
+      internalID: -454961488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 179
+        width: 27
+        height: 31
+      alignment: 9
+      pivot: {x: 0.52483964, y: 0.020444317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b7d95917c0e94d877a6f6725bb36c
+      internalID: -987415704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 179
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5269807, y: 0.03257243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99413940e4c2efd4ca236bb2df2ee6b0
+      internalID: 1751610938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 137
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.52879727, y: 0.026195526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101bc33b669137f4eb00a5af98f61b7a
+      internalID: -958607212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 136
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5265067, y: 0.030244954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac91ada7651c94a8ff23230b8da272
+      internalID: 343580474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 136
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.52429825, y: 0.019600568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc69e7cd9851734f8d2014636410e8a
+      internalID: 1459013567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 135
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5303724, y: 0.025154332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238428fce20ea2a41bda808ca359d094
+      internalID: -753170405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 135
+        width: 26
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5336433, y: 0.032857586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b8f4eb985b424396641bbd39119ea
+      internalID: -1078797187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Diddy_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 135
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5000007, y: 0.043498185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8c0263c790e241a8cdddcd59e5307
+      internalID: 946011197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Diddy_14: 1459013567
+      Diddy_10: -987415704
+      Diddy_3: -282135940
+      Diddy_0: 1977280388
+      Diddy_13: 343580474
+      Diddy_4: 499381364
+      Diddy_16: -1078797187
+      Diddy_7: -1917629791
+      Diddy_11: 1751610938
+      Diddy_6: 1281472881
+      Diddy_12: -958607212
+      Diddy_8: 299181349
+      Diddy_17: 946011197
+      Diddy_5: 837300871
+      Diddy_9: -454961488
+      Diddy_15: -753170405
+      Diddy_1: -568528646
+      Diddy_2: 1577715736
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
